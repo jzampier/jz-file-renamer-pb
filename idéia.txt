@@ -1,0 +1,7 @@
+pasta (selecionar)
+	poco
+		subpasta
+			numero_sequencial
+			
+			
+poco_subpasta_numero_sequencial.estensao
